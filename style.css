@@ -25,6 +25,7 @@ button {
 }
 li {
   cursor: pointer;
+  list-style: none;
 }
 .completed {
   text-decoration: line-through;
