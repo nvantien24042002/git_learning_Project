@@ -23,3 +23,11 @@ button {
   color: white;
   border: none;
 }
+li {
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+  color: gray;
+  font-style: italic;
+}
